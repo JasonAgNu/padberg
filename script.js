@@ -51,7 +51,7 @@ function createImageWithForm(link) {
   button.classList.add("btn");
   button.addEventListener("click", () => {
     window.location.href =
-      "https://forms.office.com/Pages/DesignPageV2.aspx?origin=NeoPortalPage&subpage=design&id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAYAALbWhq9URUZRNlVIUEtKSFI3N1BRNThJTE9MQjNKTi4u";
+      "https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAYAALbWhq9URUZRNlVIUEtKSFI3N1BRNThJTE9MQjNKTi4u";
   });
 
   container.style.position = "relative";
